@@ -9,6 +9,11 @@ Welcome to the Weather Web Page project! This simple web page allows users to in
 - Displays current temperature, humidity, and wind speed for the chosen location.
 - Provides an attractive and responsive user interface.
 
+## Live View 🌐
+
+Check out the live version of the project [here](<https://weatherapp-eight-xi.vercel.app/>).
+
+
 ## Technologies Used 💻
 
 - HTML
