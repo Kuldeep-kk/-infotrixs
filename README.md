@@ -4,7 +4,7 @@ Welcome to the Infotrixs Internship Tasks repository! This repository documents 
 
 ## Table of Contents
 
-1. [Task 1: Weather App](WeatherApp)
+1. [Task 1: Weather App](WeatherApp)<br>
    [🔴Live](<https://weatherapp-eight-xi.vercel.app/>).
 
    
